@@ -1,0 +1,19 @@
+{
+  "name": "random-rick-and-morty-character",
+  "version": "1.1.12",
+  "description": "Return a random Rick and Morty Character from Abradolf Lincler to Zeep Xanflorp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rick",
+    "and",
+    "Morty",
+    "Characters",
+    "Random",
+    "Generator"
+  ],
+  "author": "Chris Castle",
+  "license": "ISC"
+}
