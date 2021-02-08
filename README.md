@@ -11,7 +11,7 @@ Returns a random Rick and Morty Character from Abradolf Lincler to Zeep Xanflorp
 
 ### List of features
 
-*   Randomized 1 of 80+ Rick and Morty characters
+*   Randomized 1 of 140+ Rick and Morty characters
 
 ### Download & Installation
 ```shell 
