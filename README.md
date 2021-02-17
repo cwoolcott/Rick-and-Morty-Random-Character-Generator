@@ -3,7 +3,7 @@
 Rick and Morty Random Character Generator 
 =======================================
 
-Introduction - Method that returns a random Rick and Morty Character. 
+Introduction - Function that returns a random Rick and Morty Character. 
 
 * * *
 
@@ -14,22 +14,22 @@ Returns a random Rick and Morty Character from Abradolf Lincler to Zeep Xanflorp
 *   Randomized 1 of 140+ Rick and Morty characters
 
 ### Download & Installation
-```shell 
+```shell
 $ npm i random-rick-and-morty-character
 ```
 
 
 ### Usage
-```shell 
-$ var getCharacter = require('random-rick-and-morty-character');
+```javascript
+$ const randomRickandMorty = require('random-rick-and-morty-character');
 ```
 
 ### Example:
 
-```
-rickAndMortyCharacter = getCharacter.rickAndMortyCharacter(); //Jan-Michael Vincent
-anotherCharacter = getCharacter.rickAndMortyCharacter(); //Pichael Thompson
-yetAnotherCharacter = getCharacter.rickAndMortyCharacter(); //Blim Blam
+```javascript
+rickAndMortyCharacter = randomRickandMorty.rickAndMortyCharacter(); //Jan-Michael Vincent
+anotherCharacter = randomRickandMorty.rickAndMortyCharacter(); //Pichael Thompson
+yetAnotherCharacter = randomRickandMorty.rickAndMortyCharacter(); //Blim Blam
 ```
 
 
