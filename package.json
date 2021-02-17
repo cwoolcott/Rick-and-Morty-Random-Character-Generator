@@ -4,7 +4,7 @@
   "description": "Return a random Rick and Morty Character from Abradolf Lincler to Zeep Xanflorp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/test.js ./test.rm.js"
   },
   "keywords": [
     "Rick",
