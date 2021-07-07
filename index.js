@@ -73,11 +73,13 @@ randomRickandMorty = {
       'Million Ants',
       'Mortimer Morty Smith Jr.',
       'Morty Smith',
+      'Mr. Always Wants To Be Hunted'
       'Mr. Goldenfold',
       'Mr. Lucius Needful',
       'Mr. Meeseeks',
       'Mr. Poopybutthole',
       'Mrs. Pancakes',
+      'Mr. Nimbus'
       'Nancy',
       'Nathan',
       'Noob Noob',
@@ -91,6 +93,7 @@ randomRickandMorty = {
       'Prince Nebulon',
       'Principal Gene Vaagena',
       'Professor Tock',
+      'Planetina'
       'Real Fake Doors Salesman',
       'Reggie',
       'Reverse Giraffe',
